@@ -35,7 +35,6 @@
    }
 
    .content{
-    border: 1px solid black;
     flex-direction: column;
     height: 100%;
     gap: 30px;
