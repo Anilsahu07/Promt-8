@@ -106,11 +106,6 @@ html, body{
     
 }
 
-.color-div:hover{
-    background: linear-gradient(150deg, rgb(57, 56, 56), rgba(0, 0, 255, 0.592));
-    border: 2px solid black;
-}
-
 .color-div h1{
     font-size: 14px;
     font-weight: 800;
