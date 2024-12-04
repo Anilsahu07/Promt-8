@@ -27,13 +27,17 @@
    }
    
    .right{
-    width: 100%;
+    width: 250px;
     height: 100%;
     margin-top: 10px;
     background-position: center;
     padding: 20px 0;
    }
 
+   .right:hover{
+       width:280px;
+       transition: 1s linear;
+       
    .content{
     flex-direction: column;
     height: 100%;
