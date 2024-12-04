@@ -1,4 +1,4 @@
-@media(max-width:930px){
+@media(max-width:550px){
     .container{
         padding: 30px 200px;
         height: 185%;
@@ -43,7 +43,7 @@
     flex-direction: column;
     height: 100%;
     gap: 30px;
-    width: 350px;
+    width: 360px;
     padding-bottom: 50px;
     padding: 0px 20px;
    }
