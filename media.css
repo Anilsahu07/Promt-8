@@ -35,8 +35,8 @@
    }
 
    .right: hover{
-    width: 250px;
-    transition: 1s linear;
+    width: 150px;
+    transition: 1.5s linear;
    }  
     
    .content{
