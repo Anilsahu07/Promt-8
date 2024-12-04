@@ -78,9 +78,9 @@ html, body{
     color: black;
 }
 
-.top2 i:hover{
+.top2 a:hover{
     font-size: 25px;
-    transition: 1s linear;
+    transition:5s linear;
     background-color: rgba(16, 16, 16, 0.126);
 }
 
