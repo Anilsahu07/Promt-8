@@ -34,8 +34,8 @@
     padding: 20px 0;
    }
 
-   .right:hover{
-    width:280px;
+   .right: hover{
+    width: 280px;
     transition: 1s linear;
    }  
     
