@@ -33,11 +33,6 @@
     background-position: center;
     padding: 20px 0;
    }
-
-   .right: hover{
-    width: 150px;
-    transition: 1.5s linear;
-   }  
     
    .content{
     flex-direction: column;
